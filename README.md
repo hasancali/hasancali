@@ -8,10 +8,18 @@ You can click the Preview link to take a look at your changes.
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hasancali?label=Follow)](https://twitter.com/intent/follow?screen_name=hasancali)
-[![Linkedin: anmol](https://img.shields.io/badge/-hasancali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasancali/)](https://www.linkedin.com/in/hasancali/)
+<a href="https://hasancali.dev">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://hasancali.dev/logo.png" />
+</a>
+<a href="https://www.linkedin.com/in/hasancali/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/hasancali">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ![GitHub followers](https://img.shields.io/github/followers/hasancali?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://hasancali.dev/)](https://hasancali.dev/)
+
 
 ### 📫 Like to meet me?
 
