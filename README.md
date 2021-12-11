@@ -9,17 +9,19 @@ You can click the Preview link to take a look at your changes.
 </em></p>
 
 <a href="https://hasancali.dev">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://hasancali.dev/logo.png" />
-</a>
-<a href="https://www.linkedin.com/in/hasancali/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hasan's web site" width="22px" src="https://hasancali.dev/logo.png" />
 </a>
 <a href="https://twitter.com/hasancali">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Hasan's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hasancali/">
+  <img align="left" alt="'Hasan's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/hasancali">
+  <img align="left" alt="Hasan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![GitHub followers](https://img.shields.io/github/followers/hasancali?label=Follow&style=social)
-
+</br>
 
 ### 📫 Like to meet me?
 
