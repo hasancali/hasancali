@@ -34,7 +34,7 @@ I love connecting with different people</b> so if you want to say <b>hi, I'll be
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺
 
-<a href="https://www.buymeacoffee.com/hasancali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hasancali" target="_blank"><img src="https://hasancali.dev/coffee.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 <b>NOTE:</b> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
