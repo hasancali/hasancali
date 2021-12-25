@@ -8,9 +8,6 @@ You can click the Preview link to take a look at your changes.
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://hasancali.dev">
-  <img align="left" alt="Hasan's web site" width="22px" src="https://hasancali.dev/logo.png" />
-</a>
 <a href="https://twitter.com/hasancali">
   <img align="left" alt="Hasan's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a>
