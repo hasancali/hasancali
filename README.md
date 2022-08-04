@@ -8,11 +8,17 @@ You can click the Preview link to take a look at your changes.
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/hasancali"><img height="30" src="https://hasancali.dev/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://hasancali.dev"><img height="30" src="https://hasancali.dev/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.spotify.com/hasancali"><img height="30" src="https://hasancali.dev/spotify.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/hasancali"><img height="30" src="https://hasancali.dev/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/hasancali">
+  <img align="left" alt="Hasan's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hasancali/">
+  <img align="left" alt="'Hasan's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/hasancali">
+  <img align="left" alt="Hasan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+</br>
 
 ### 📫 Like to meet me?
 
