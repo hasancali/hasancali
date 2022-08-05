@@ -30,7 +30,8 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺
 
 <b>NOTE:</b> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
-<hr>
+## Just a snake eating my contributions 🐍
+
 <p align='center'>
 <img src="https://hasancali.dev/github-contribution-grid-snake.svg">
 </p>
