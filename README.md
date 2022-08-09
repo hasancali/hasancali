@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/hasancali/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/hasancali"><img height="30" src="https://hasancali.dev/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hasancali.dev"><img height="30" src="https://hasancali.dev/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.spotify.com/hasancali"><img height="30" src="https://hasancali.dev/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://lk.tc/wXSmS"><img height="30" src="https://hasancali.dev/spotify.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/hasancali"><img height="30" src="https://hasancali.dev/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 
 ### 📫 Like to meet me?
