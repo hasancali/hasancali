@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ### 📫 Like to meet me?
 
 ```bash
-info@stormsoft.co
+info@hasancali.dev
 ```
 
 I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
