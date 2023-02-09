@@ -33,5 +33,5 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺
 ## 🐍 Just a snake eating my contributions 
 
 <p align='center'>
-<img src="https://hasancali.dev/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/hasancali/hasancali.github.io/aaedc4cd1e2fe68e057c1f127ee5ae49b757d24c/github-contribution-grid-snake.svg">
 </p>
