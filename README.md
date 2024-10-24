@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>I'm Hasan Çalı! 👀</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/user-attachments/assets/f394de8a-bc79-4e25-b417-c90a248450d8" width="230">
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/hasancali/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hasancali/"><img height="30" src="https://hasancali.dev/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/hasancali"><img height="30" src="https://hasancali.dev/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hasancali.dev"><img height="30" src="https://hasancali.dev/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://lk.tc/wXSmS"><img height="30" src="https://hasancali.dev/spotify.png?raw=true"></a>&nbsp;&nbsp;
